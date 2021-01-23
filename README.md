@@ -1,1 +1,1 @@
-# Simple Calculator using swing in Java
+Simple Calculator using swing in Java
